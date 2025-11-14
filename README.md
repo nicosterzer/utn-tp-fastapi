@@ -36,7 +36,7 @@ Una API REST construida con FastAPI que administra una colección de objetos y u
 1. **Clonar o descargar el proyecto**
    ```bash
    # Si tienes el repositorio
-   git clone <url-del-repositorio>
+   git clone https://github.com/nicosterzer/utn-tp-fastapi
    cd clase1-fastapi
    ```
 
